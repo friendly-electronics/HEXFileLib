@@ -221,6 +221,8 @@ Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
 *.appxbundle
+
+
 *.appxupload
 
 # Visual Studio cache files
@@ -396,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Rider
+.idea
