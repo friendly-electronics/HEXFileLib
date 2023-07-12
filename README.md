@@ -1,4 +1,4 @@
-# HEX File Library
+# C# HEX File Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/friendly-electronics/HEXFileLib/blob/master/LICENSE)
 
